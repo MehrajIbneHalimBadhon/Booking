@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "485963280413",
+    "project_id": "login-page-design-3fa17",
+    "storage_bucket": "login-page-design-3fa17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485963280413:android:46a6791552d298450056f4",
+        "android_client_info": {
+          "package_name": "com.example.login_page_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485963280413-hlqbgv6vn1947ntva5c5k6a94bop99ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD18kM5kS1eZwQhb-zik7fVueyH_xUndhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485963280413-hlqbgv6vn1947ntva5c5k6a94bop99ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485963280413:android:a5c8a2ad01750e4b0056f4",
+        "android_client_info": {
+          "package_name": "com.example.login_page_design1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485963280413-hlqbgv6vn1947ntva5c5k6a94bop99ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD18kM5kS1eZwQhb-zik7fVueyH_xUndhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485963280413-hlqbgv6vn1947ntva5c5k6a94bop99ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485963280413:android:5fa681f502bd9b3d0056f4",
+        "android_client_info": {
+          "package_name": "com.example.turf_database_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485963280413-hlqbgv6vn1947ntva5c5k6a94bop99ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD18kM5kS1eZwQhb-zik7fVueyH_xUndhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485963280413-hlqbgv6vn1947ntva5c5k6a94bop99ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
